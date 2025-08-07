@@ -10,4 +10,7 @@
    * the dataset contains only the training data
 
 
+https://universe.roboflow.com/radu-zghbi/chicken-detector-etho0
+
+
 <img width="946" height="430" alt="chickens_labaled_roboflow" src="https://github.com/user-attachments/assets/f1f5802d-0fd4-4b13-bf1d-d76f2fa3e4e4" />
